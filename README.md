@@ -1,4 +1,8 @@
 # google-docs
+<p>Several people can work on the same document locally. Just share the link.</p>
+
+<br><br>
+
 <p>To start the server, open up the terminal, and execute the following commands once inside the "google-docs" directory:</p>
 <code>cd server</code><br>
 <code>npm i</code><br>
