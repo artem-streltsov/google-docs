@@ -1,5 +1,5 @@
 # google-docs
-<p>To start the server, open up the terminal, and execute the following commands once inside the "google-docs" directory::</p>
+<p>To start the server, open up the terminal, and execute the following commands once inside the "google-docs" directory:</p>
 <code>cd server</code><br>
 <code>npm i</code><br>
 <code>nodemon server.js</code><br>
